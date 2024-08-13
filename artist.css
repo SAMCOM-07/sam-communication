@@ -369,7 +369,7 @@ body{
   display: flex;
   justify-content: space-between;
   max-width: 1150px;
-  margin: 50px auto;
+  margin: 1000px auto;
   padding: 0 25px;
   font-size: 15px;
 }
@@ -385,7 +385,6 @@ body{
 }
 
 /* MEDIA QUERIES */
-
 @media (max-width: 1200px){
   .main{
     margin: 0 30px;
