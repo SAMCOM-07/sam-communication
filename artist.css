@@ -369,7 +369,8 @@ body{
   display: flex;
   justify-content: space-between;
   max-width: 1150px;
-  margin: 1000px auto;
+  margin: auto;
+  margin-top: 1000px;
   padding: 0 25px;
   font-size: 15px;
 }
