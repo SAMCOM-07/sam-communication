@@ -23,6 +23,7 @@ body{
   color: #292C33;
   background-color: #EEEFF3;
   position: relative;
+  height: 100vh;
 }
 
 .bg{
@@ -369,7 +370,7 @@ body{
   display: flex;
   justify-content: space-between;
   max-width: 1150px;
-  margin: auto;
+  margin: 100px auto;
   padding: 0 25px;
   font-size: 15px;
 }
